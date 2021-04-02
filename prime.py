@@ -8,3 +8,4 @@ if count == 0:
      print( n," no is prime")
 else:
      print( n ," no is not prime")
+print("Happy to code with python")
